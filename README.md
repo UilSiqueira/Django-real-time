@@ -1,5 +1,5 @@
 # Django-real-time
-Django Web Page com dados da API da AlphaVantage, o preço e a porcentagem na tabela são atualizados a cada 10 segundos, os gráficos e o restante das infos na tabela são atualizadas a cada três minutos  <br>
+Django Web Page com dados da AlphaVantage API, o preço e a porcentagem na tabela são atualizados a cada 10 segundos, os gráficos e o restante das infos na tabela são atualizadas a cada três minutos  <br>
  <br>
  Deploy na Amazon Ec2, com Amazon linux(CentOs7)<br>
  <br>
